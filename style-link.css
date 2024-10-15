@@ -1,0 +1,17 @@
+body {
+    background-image: url(lf.jpg);
+    background-size: 1380px;
+    }
+    
+    table td {
+    background-color: aqua;
+        text-align: center;
+        border: 3px;
+        border-style: solid;
+        border-color: grey;
+        width: 250px;
+        height: 80px;
+    border-radius: 70px 70px 70px 70px;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    }

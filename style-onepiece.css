@@ -1,0 +1,25 @@
+body {
+background-image: url(bg.jpg);
+}
+.judul {
+width: 400px;
+height: 120px;
+text-align: center;
+}
+table th {
+border: 5px;
+border-style: solid;
+border-color: black;
+border-radius: 50px 50px 50px 50px;
+background-color: lightblue;
+font-size: 20px;
+font-family: 'Courier New', Courier, monospace;
+text-align: center;
+width: 300px;
+height: 350px;
+}
+img {
+width: 250px;
+height: 250px;
+border-radius: 50px 50px 50px 50px;
+}
